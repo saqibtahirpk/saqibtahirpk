@@ -12,6 +12,11 @@ You don’t need a ‘rockstar’ but someone who integrates well else
 
 <em><strong>I am your best bet for better outcomes.</strong></em>
 
+<a href="https://saqibtahir.com/#plans" class="btn">
+<span class="animated-button"><span><em>S</em><em>t</em><em>a</em><em>r</em><em>t</em><em> </em><em>N</em><em>o</em><em>w</em></span></span>
+<i class="icon fas fa-chevron-right"></i>
+</a>
+
 
 <!---
 saqibtahirpk/saqibtahirpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
