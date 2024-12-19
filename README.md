@@ -1,22 +1,29 @@
-I am an execution driven Product Manager who enables you to deliver results - <em>better than ever before.</em>
+I am a Product Consultant, Writer, and Podcaster.
+My professional background is rooted in working closely with tech startups and software businesses.
+I help founders and owners deliver products and projects, big and small, across a wide variety of categories.
 
-With a decade of delivering successful projects along with hands-on experience of 10,000+ hours in IT, Software Development, and SaaS -
+See, at the heart of it – I love solving problems for people using tech.
+It doesn’t get simpler than that.
+I am known for consistent experimentation, ruthless prioritization, and relentless execution.
+
+If I have an idea, it better have a .com at the end of it within the month.
+
+There is a thing about ‘standing on the shoulders of giants’
+Every next generation has advantages that the previous didn’t.
+And I hope I can offer you some advantages along the way.
+
+I’ve been working in the trenches of product delivery for over a decade.
+Having closely worked with aspects of strategy, planning, execution, launch, and growth of both products and businesses.
+
+With a decade of delivering successfully along with hands-on experience of 10,000+ hours in IT, Software Development, and SaaS -
 I help great People build greater Products
 
-The fields of Product Management, Business Operations, and Marketing drive my passion. As a Product Manager in tech. I work on strategy to launch to growth of products and services with early stage businesses.
+You can get in touch at https://saqibtahir.com/booking
 
-As your startup matures, you need someone to come in and wear all the hats.
-You need someone who knows enough about “everything”
-You need the ‘get job done’ mentality in your team
-You don’t need a ‘rockstar’ but someone who integrates well else
-
-<em><strong>I am your best bet for better outcomes.</strong></em>
-
-<a href="https://saqibtahir.com/#plans" class="btn">
-<span class="animated-button"><span><em>S</em><em>t</em><em>a</em><em>r</em><em>t</em><em> </em><em>N</em><em>o</em><em>w</em></span></span>
-<i class="icon fas fa-chevron-right"></i>
-</a>
-
+Here's what I have on my plate these days:
+For Agencies: https://www.theproparadigm.com
+For Startups: https://prodigipartners.com
+For Community: https://sknexus.com
 
 <!---
 saqibtahirpk/saqibtahirpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
