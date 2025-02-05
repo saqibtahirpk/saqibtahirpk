@@ -21,9 +21,9 @@ I help great People build greater Products
 You can get in touch at https://saqibtahir.com/booking
 
 Here's what I have on my plate these days:
-</br>For Agencies: https://www.theproparadigm.com
-</br>For Startups: https://prodigipartners.com
-</br>For Community: https://sknexus.com
+</br>Consulting: https://www.theproparadigm.com
+</br>Product Dev: https://bizofdev.com/
+</br>For Community: https://thewanderingpro.com/
 
 <!---
 saqibtahirpk/saqibtahirpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
