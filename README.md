@@ -23,7 +23,9 @@ You can get in touch at https://saqibtahir.com/booking
 Here's what I have on my plate these days:
 </br>Consulting: https://www.theproparadigm.com
 </br>Product Dev: https://bizofdev.com/
-</br>For Community: https://thewanderingpro.com/
+</br>Community: https://thewanderingpro.com/
+</br>Newsletter: http://therift.news/
+</br>Blog: https://sknexus.substack.com/
 
 <!---
 saqibtahirpk/saqibtahirpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
