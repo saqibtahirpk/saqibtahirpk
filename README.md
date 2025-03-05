@@ -18,7 +18,7 @@ Having closely worked with aspects of strategy, planning, execution, launch, and
 With a decade of delivering successfully along with hands-on experience of 10,000+ hours in IT, Software Development, and SaaS -
 I help great People build greater Products
 
-You can get in touch at https://saqibtahir.com/booking
+You can get in touch at https://www.linkedin.com/in/saqibtahirpk/
 
 Here's what I have on my plate these days:
 </br>Consulting: https://www.theproparadigm.com
