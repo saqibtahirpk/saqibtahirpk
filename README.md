@@ -21,11 +21,9 @@ I help great People build greater Products
 You can get in touch at https://www.linkedin.com/in/saqibtahirpk/
 
 Here's what I have on my plate these days:
-</br>Consulting: https://www.theproparadigm.com
-</br>Product Dev: https://bizofdev.com/
+</br>Consulting: https://bizofdev.com/
 </br>Community: https://thewanderingpro.com/
-</br>Newsletter: http://therift.news/
-</br>Blog: https://sknexus.substack.com/
+</br>Content: https://www.sknexus.org/
 
 <!---
 saqibtahirpk/saqibtahirpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
