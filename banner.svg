@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" role="img" aria-label="Saqib Tahir. Generalist at heart. Specialist at getting it done.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0F1A"/>
+      <stop offset="55%" stop-color="#0D131F"/>
+      <stop offset="100%" stop-color="#111828"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="18%" r="55%">
+      <stop offset="0%" stop-color="#515CF6" stop-opacity="0.28"/>
+      <stop offset="45%" stop-color="#515CF6" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#515CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#515CF6"/>
+      <stop offset="100%" stop-color="#9AA0FB"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="220" rx="14" fill="url(#glow)"/>
+  <rect x="60" y="58" width="4" height="104" rx="2" fill="url(#accent)"/>
+
+  <text x="84" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#717A90">&#62;_ HUB</text>
+  <text x="82" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F4F6FB">Saqib Tahir</text>
+  <text x="84" y="174" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#AEB4C4">Generalist at heart. Specialist at getting it done.</text>
+</svg>
