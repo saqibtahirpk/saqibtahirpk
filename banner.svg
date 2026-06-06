@@ -20,7 +20,7 @@
   <rect width="1000" height="220" rx="14" fill="url(#glow)"/>
   <rect x="60" y="58" width="4" height="104" rx="2" fill="url(#accent)"/>
 
-  <text x="84" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#717A90">&#62; Do Tech -> Better </text>
+  <text x="84" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#717A90">&#62; Do Tech Better </text>
   <text x="82" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F4F6FB">Saqib Tahir</text>
   <text x="84" y="174" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#AEB4C4">Generalist at heart. Specialist at getting it done.</text>
 </svg>
