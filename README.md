@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/saqibtahirpk">
-    <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=22&pause=900&color=9AA0FB&center=true&vCenter=true&width=760&height=46&lines=Relentless+execution.+Ruthless+prioritization.;Discovery+is+the+work%2C+not+a+checkbox.;No+code+until+there%27s+a+plan+worth+building." alt="Typing taglines" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=22&pause=900&color=9AA0FB&center=true&vCenter=true&width=760&height=46&lines=Relentless+execution.+Ruthless+prioritization.;Discovery+is+the+work%2C+not+a+checkbox." alt="Typing taglines" />
   </a>
 </p>
 
