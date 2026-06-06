@@ -26,11 +26,13 @@ I build ventures, ship products, and help dev shops turn raw skill into real bus
 - **[SK NEXUS](https://www.sknexus.org/)** — content, ideas, and the occasional strong opinion.
 - **[The Rift](https://saqibtahir.com/the-rift)** — my running journal.
 
-### How I work
+### Some things I'm known for
 
-- **Discovery is the work, not a checkbox.**
-- **No code until there's a plan worth building.**
-- Real names, real numbers, no buzzwords.
+- **Figure out the right thing, then build it right.**
+- **Learning by execution: doing, breaking, figuring out why it broke.**
+- **A framework is just a fundamental with a cover on it.**
+- **An idea is usually three ideas in a trench coat.**
+- **Obsessive about understanding things before I claim to know them.**
 
 <br/>
 
