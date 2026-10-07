@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://saqibtahir.com/"><img src="./banner.svg" width="100%" alt="Saqib Tahir. Generalist at Heart, Specialist at Getting it Done." /></a>
+  <a href="https://saqibtahir.com/"><img src="./banner-v2.svg" width="100%" alt="Saqib Tahir. Generalist at Heart, Specialist at Getting it Done." /></a>
 </p>
 
 <p align="center">
