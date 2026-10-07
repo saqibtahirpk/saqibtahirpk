@@ -3,15 +3,8 @@
     .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
     @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(-60px,24px)}}
     @keyframes draw{0%{stroke-dashoffset:420}35%,100%{stroke-dashoffset:0}}
-    @keyframes slide{0%,40%{transform:translateX(0)}50%,90%{transform:translateX(104px)}100%{transform:translateX(0)}}
-    @keyframes pfade{0%,40%{fill:#FFFFFF}50%,90%{fill:#717A90}100%{fill:#FFFFFF}}
-    @keyframes wfade{0%,40%{fill:#717A90}50%,90%{fill:#0D131F}100%{fill:#717A90}}
-    @keyframes tint{0%,40%{fill:#515CF6}50%,90%{fill:#EDE7CF}100%{fill:#515CF6}}
     .glow{animation:drift 14s ease-in-out infinite;transform-box:fill-box}
     .brush{stroke-dasharray:420;animation:draw 7s cubic-bezier(.22,1,.36,1) infinite}
-    .thumb{animation:slide 6s cubic-bezier(.65,0,.35,1) infinite,tint 6s cubic-bezier(.65,0,.35,1) infinite}
-    .lp{animation:pfade 6s cubic-bezier(.65,0,.35,1) infinite}
-    .lw{animation:wfade 6s cubic-bezier(.65,0,.35,1) infinite}
     @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
   </style>
   <defs>
@@ -34,12 +27,4 @@
   <text class="t" x="66" y="196" font-size="25" font-weight="600" fill="#AEB4C4">Specialist at Getting it <tspan fill="#9AA0FB">Done</tspan></text>
   <path class="brush" d="M64 214 C 150 206, 260 222, 380 210" fill="none" stroke="#515CF6" stroke-width="5" stroke-linecap="round"/>
 
-  <!-- The Personal / Work pill, as on saqibtahir.com -->
-  <g transform="translate(706 96)">
-    <rect width="220" height="52" rx="26" fill="#111828" stroke="#232A3D"/>
-    <rect class="thumb" x="6" y="6" width="104" height="40" rx="20" fill="#515CF6"/>
-    <text class="t lp" x="58" y="32" font-size="15" font-weight="600" text-anchor="middle" fill="#FFFFFF">Personal</text>
-    <text class="t lw" x="162" y="32" font-size="15" font-weight="600" text-anchor="middle" fill="#717A90">Work</text>
-  </g>
-  <text class="t" x="816" y="180" font-size="15" font-weight="500" text-anchor="middle" fill="#717A90">saqibtahir.com</text>
 </svg>
