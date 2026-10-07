@@ -1,18 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" role="img" aria-label="Lessons earned the hard way, shared the easy way.">
-  <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#111828"/>
-      <stop offset="100%" stop-color="#0D131F"/>
-    </linearGradient>
-  </defs>
-
-  <rect x="1" y="1" width="998" height="178" rx="14" fill="url(#card)" stroke="#232A3D" stroke-width="1.5"/>
-  <rect x="1" y="1" width="6" height="178" rx="3" fill="#EDE7CF"/>
-
-  <text x="44" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="90" font-weight="700" fill="#EDE7CF" opacity="0.35">&#8220;</text>
-
-  <text x="110" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#EDE7CF">Every generation deserves a few shortcuts.</text>
-  <text x="110" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#EDE7CF">Lessons earned the hard way, shared the easy way.</text>
-
-  <text x="110" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#717A90">&#8212; THE RIFT</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Every generation deserves a few shortcuts. Lessons earned the hard way, shared the easy way.">
+  <defs><linearGradient id="q" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#161C2B"/><stop offset="1" stop-color="#0D131F"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="999" height="199" rx="18" fill="url(#q)" stroke="#232A3D"/>
+  <rect x="0" y="24" width="5" height="152" rx="2.5" fill="#EDE7CF"/>
+  <text x="44" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="80" fill="#3A4258">&#8220;</text>
+  <text x="104" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#F4F6FB">Every generation deserves a few shortcuts.</text>
+  <text x="104" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#F4F6FB">Lessons earned the hard way, shared the easy way.</text>
+  <text x="106" y="166" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#717A90">THE RIFT</text>
 </svg>

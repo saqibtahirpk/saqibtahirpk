@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 140" width="490" height="140" role="img" aria-label="SK NEXUS: a tech publication for the everyday person">
+  <style>
+    .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+    @keyframes nudge{0%,70%,100%{transform:translateX(0)}80%{transform:translateX(6px)}}
+    .arr{animation:nudge 3.2s ease-in-out infinite}
+    @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
+  </style>
+  <defs><radialGradient id="g"><stop offset="0" stop-color="#39C6C0" stop-opacity=".22"/><stop offset="1" stop-color="#39C6C0" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="490" height="140" rx="16"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="490" height="140" fill="#111828"/>
+    <ellipse cx="450" cy="10" rx="157" ry="126" fill="url(#g)"/>
+    <rect width="5" height="140" fill="#39C6C0"/>
+  </g>
+  <rect x=".5" y=".5" width="489" height="139" rx="16" fill="none" stroke="#232A3D"/>
+  <text class="t" x="34" y="54" font-size="25" font-weight="700" fill="#F4F6FB" >SK NEXUS</text>
+  <text class="t" x="34" y="84" font-size="16" font-weight="600" fill="#39C6C0">Knowledge is Everywhere. Context is King.</text>
+  <text class="t" x="34" y="112" font-size="14" fill="#AEB4C4">A tech publication for the everyday person.</text>
+  <g class="arr"><path d="M438 70h20M451 62l8 8-8 8" fill="none" stroke="#717A90" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

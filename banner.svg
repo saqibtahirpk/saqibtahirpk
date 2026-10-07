@@ -1,26 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" role="img" aria-label="Saqib Tahir. Generalist at heart. Specialist at getting it done.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="Saqib Tahir. Generalist at Heart, Specialist at Getting it Done.">
+  <style>
+    .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+    @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(-60px,24px)}}
+    @keyframes draw{0%{stroke-dashoffset:420}35%,100%{stroke-dashoffset:0}}
+    @keyframes slide{0%,40%{transform:translateX(0)}50%,90%{transform:translateX(104px)}100%{transform:translateX(0)}}
+    @keyframes pfade{0%,40%{fill:#FFFFFF}50%,90%{fill:#717A90}100%{fill:#FFFFFF}}
+    @keyframes wfade{0%,40%{fill:#717A90}50%,90%{fill:#0D131F}100%{fill:#717A90}}
+    @keyframes tint{0%,40%{fill:#515CF6}50%,90%{fill:#EDE7CF}100%{fill:#515CF6}}
+    .glow{animation:drift 14s ease-in-out infinite;transform-box:fill-box}
+    .brush{stroke-dasharray:420;animation:draw 7s cubic-bezier(.22,1,.36,1) infinite}
+    .thumb{animation:slide 6s cubic-bezier(.65,0,.35,1) infinite,tint 6s cubic-bezier(.65,0,.35,1) infinite}
+    .lp{animation:pfade 6s cubic-bezier(.65,0,.35,1) infinite}
+    .lw{animation:wfade 6s cubic-bezier(.65,0,.35,1) infinite}
+    @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
+  </style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0A0F1A"/>
-      <stop offset="55%" stop-color="#0D131F"/>
-      <stop offset="100%" stop-color="#111828"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="82%" cy="18%" r="55%">
-      <stop offset="0%" stop-color="#515CF6" stop-opacity="0.28"/>
-      <stop offset="45%" stop-color="#515CF6" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#515CF6" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#515CF6"/>
-      <stop offset="100%" stop-color="#9AA0FB"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D131F"/><stop offset="1" stop-color="#111828"/></linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#515CF6" stop-opacity=".55"/><stop offset="1" stop-color="#515CF6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#EDE7CF" stop-opacity=".16"/><stop offset="1" stop-color="#EDE7CF" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#232A3D"/></pattern>
+    <clipPath id="clip"><rect width="1000" height="270" rx="20"/></clipPath>
   </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="270" fill="url(#bg)"/>
+    <rect width="1000" height="270" fill="url(#dots)" opacity=".55"/>
+    <ellipse class="glow" cx="820" cy="40" rx="320" ry="220" fill="url(#g1)"/>
+    <ellipse cx="980" cy="270" rx="260" ry="160" fill="url(#g2)"/>
+  </g>
+  <rect x=".5" y=".5" width="999" height="269" rx="20" fill="none" stroke="#232A3D"/>
 
-  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
-  <rect width="1000" height="220" rx="14" fill="url(#glow)"/>
-  <rect x="60" y="58" width="4" height="104" rx="2" fill="url(#accent)"/>
+  <text class="t" x="64" y="112" font-size="58" font-weight="700" fill="#F4F6FB" letter-spacing="-1">Saqib Tahir</text>
+  <text class="t" x="66" y="160" font-size="25" font-weight="600" fill="#AEB4C4">Generalist at <tspan fill="#9AA0FB">Heart</tspan></text>
+  <text class="t" x="66" y="196" font-size="25" font-weight="600" fill="#AEB4C4">Specialist at Getting it <tspan fill="#9AA0FB">Done</tspan></text>
+  <path class="brush" d="M64 214 C 150 206, 260 222, 380 210" fill="none" stroke="#515CF6" stroke-width="5" stroke-linecap="round"/>
 
-  <text x="84" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#717A90">&#62;_ DO TECH BETTER</text>
-  <text x="82" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F4F6FB">Saqib Tahir</text>
-  <text x="84" y="174" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#AEB4C4">Generalist at heart. Specialist at getting it done.</text>
+  <!-- The Personal / Work pill, as on saqibtahir.com -->
+  <g transform="translate(706 96)">
+    <rect width="220" height="52" rx="26" fill="#111828" stroke="#232A3D"/>
+    <rect class="thumb" x="6" y="6" width="104" height="40" rx="20" fill="#515CF6"/>
+    <text class="t lp" x="58" y="32" font-size="15" font-weight="600" text-anchor="middle" fill="#FFFFFF">Personal</text>
+    <text class="t lw" x="162" y="32" font-size="15" font-weight="600" text-anchor="middle" fill="#717A90">Work</text>
+  </g>
+  <text class="t" x="816" y="180" font-size="15" font-weight="500" text-anchor="middle" fill="#717A90">saqibtahir.com</text>
 </svg>

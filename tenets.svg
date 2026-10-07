@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Relentless Execution. Ruthless Prioritization. Ravenous Curiosity.">
+  <style>
+    .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+    @keyframes lit{0%,28%{opacity:1}36%,92%{opacity:0}100%{opacity:1}}
+    @keyframes bar{0%{transform:scaleX(0)}28%{transform:scaleX(1)}36%,100%{transform:scaleX(0)}}
+    .on{opacity:0;animation:lit 9s ease-in-out infinite}
+    .bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:bar 9s cubic-bezier(.22,1,.36,1) infinite}
+    @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
+  </style>
+  <g transform="translate(0 0)">
+    <rect x=".5" y=".5" width="327" height="149" rx="16" fill="#111828" stroke="#232A3D"/>
+    <rect class="on" style="animation-delay:0s" x=".5" y=".5" width="327" height="149" rx="16" fill="#161C2B" stroke="#515CF6"/>
+    <text class="t" x="24" y="40" font-size="13" font-weight="600" letter-spacing="2" fill="#717A90">01</text>
+    <text class="t" x="24" y="76" font-size="21" font-weight="700" fill="#F4F6FB">Relentless Execution</text>
+    <text class="t" x="24" y="106" font-size="13.5" fill="#AEB4C4">If there's an idea, there's already a deadline.</text>
+    <rect class="bar" style="animation-delay:0s" x="24" y="126" width="120" height="3" rx="1.5" fill="#515CF6"/>
+  </g>
+  <g transform="translate(336 0)">
+    <rect x=".5" y=".5" width="327" height="149" rx="16" fill="#111828" stroke="#232A3D"/>
+    <rect class="on" style="animation-delay:3s" x=".5" y=".5" width="327" height="149" rx="16" fill="#161C2B" stroke="#515CF6"/>
+    <text class="t" x="24" y="40" font-size="13" font-weight="600" letter-spacing="2" fill="#717A90">02</text>
+    <text class="t" x="24" y="76" font-size="21" font-weight="700" fill="#F4F6FB">Ruthless Prioritization</text>
+    <text class="t" x="24" y="106" font-size="13.5" fill="#AEB4C4">Most things on the list don't belong on the list.</text>
+    <rect class="bar" style="animation-delay:3s" x="24" y="126" width="120" height="3" rx="1.5" fill="#515CF6"/>
+  </g>
+  <g transform="translate(672 0)">
+    <rect x=".5" y=".5" width="327" height="149" rx="16" fill="#111828" stroke="#232A3D"/>
+    <rect class="on" style="animation-delay:6s" x=".5" y=".5" width="327" height="149" rx="16" fill="#161C2B" stroke="#515CF6"/>
+    <text class="t" x="24" y="40" font-size="13" font-weight="600" letter-spacing="2" fill="#717A90">03</text>
+    <text class="t" x="24" y="76" font-size="21" font-weight="700" fill="#F4F6FB">Ravenous Curiosity</text>
+    <text class="t" x="24" y="106" font-size="13.5" fill="#AEB4C4">Every "why" is two more "whys" deep.</text>
+    <rect class="bar" style="animation-delay:6s" x="24" y="126" width="120" height="3" rx="1.5" fill="#515CF6"/>
+  </g>
+</svg>
