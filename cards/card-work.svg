@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Work With Me: hire Saqib 1:1 as your Operating Partner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Work With Me: Embedded Product Consulting, hire Saqib as your Product Consultant">
   <style>
     .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
     @keyframes nudge{0%,70%,100%{transform:translateX(0)}80%{transform:translateX(6px)}}
@@ -15,7 +15,7 @@
   <rect x=".5" y=".5" width="999" height="149" rx="16" fill="none" stroke="#232838"/>
   <text class="t" x="34" y="56" font-size="30" font-weight="700" fill="#F4F6FB" >Work With Me</text>
   <text class="t" x="34" y="88" font-size="18" font-weight="600" fill="#EDE7CF">The Right Lever Shifts the Paradigm.</text>
-  <text class="t" x="34" y="118" font-size="15" fill="#AEB4C4">Hire me 1:1 as your Operating Partner. I find what's worth fixing and Drive it to Done.</text>
+  <text class="t" x="34" y="118" font-size="15" fill="#AEB4C4">Embedded Product Consulting. I find what's worth fixing and Drive it to Done.</text>
   <g transform="translate(770 51)">
     <rect width="196" height="48" rx="24" fill="#EDE7CF"/>
     <text class="t" x="84" y="30" font-size="16" font-weight="700" text-anchor="middle" fill="#030712">Book a Call</text>

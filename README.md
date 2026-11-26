@@ -6,20 +6,20 @@
   <img src="./tenets.svg" width="100%" alt="Relentless Execution. Ruthless Prioritization. Ravenous Curiosity." />
 </p>
 
-I run a product company, work 1:1 with a few founders as their Operating Partner, and build a publication and a community that teach tech and career the way I learned it. Most of what I learn ends up written down, so the next person can take the shortcut.
+I run a product company, consult a few software businesses as their Product Consultant, and build a publication and a community that teach tech and career the way I learned it. Most of what I learn ends up written down, so the next person can take the shortcut.
 
 ### What's on My Plate
 
 <p align="center">
-  <a href="https://saqibtahir.com/work"><img src="./cards/card-work.svg" width="100%" alt="Work With Me: hire Saqib 1:1 as your Operating Partner" /></a>
+  <a href="https://saqibtahir.com/work"><img src="./cards/card-work.svg" width="100%" alt="Work With Me: Embedded Product Consulting, hire Saqib as your Product Consultant" /></a>
 </p>
 <p align="center">
-  <a href="https://bizofdev.com/"><img src="./cards/card-bizofdev.svg" width="49%" alt="Biz of Dev: discovery led product development" /></a>
+  <a href="https://bizofdev.com/"><img src="./cards/card-bizofdev.svg" width="49%" alt="Biz of Dev: Know What to Build. Build It Right." /></a>
   <a href="https://www.sknexus.org/"><img src="./cards/card-sknexus.svg" width="49%" alt="SK NEXUS: a tech publication for the everyday person" /></a>
 </p>
 <p align="center">
   <a href="https://thewanderingpro.com/"><img src="./cards/card-twp.svg" width="49%" alt="The Wandering Pro: Pakistan's builder community" /></a>
-  <a href="https://saqibtahir.com/the-rift"><img src="./cards/card-rift.svg" width="49%" alt="The Rift: my running journal" /></a>
+  <a href="https://saqibtahir.com/pandemonium"><img src="./cards/card-rift.svg" width="49%" alt="Pandemonium: a journal for my stepping stones" /></a>
 </p>
 
 ### Some Things I'm Known For
